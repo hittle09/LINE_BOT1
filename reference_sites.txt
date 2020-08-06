@@ -1,0 +1,26 @@
+文字起こしのBot
+https://qiita.com/mikan3rd/items/f0b6ff57dbcedc79a22d
+
+カルーセルの表示
+https://qiita.com/mikan3rd/items/0e1bfe46e00cf434a126
+
+テンプレまとめ
+https://dev.classmethod.jp/articles/line-messaging-api/
+
+オウム返し
+https://qiita.com/kro/items/67f7510b36945eb9689b
+
+LINE messaging API
+https://developers.line.biz/ja/docs/messaging-api/getting-started/
+
+LINE デベロッパーズ
+https://developers.line.biz/ja/docs/messaging-api/building-bot/
+
+HerokuでサンプルBOTを作成する
+https://developers.line.biz/ja/docs/messaging-api/building-sample-bot-with-heroku/
+
+ボットを作成する
+https://developers.line.biz/ja/docs/messaging-api/building-bot/
+
+Herokuはutkbusu1617@gmail.com
+Gent1enyank0_
